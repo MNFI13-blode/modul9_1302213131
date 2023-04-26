@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2021-10-19T14:12:50.3079024-10:00",
+    "temperatureC": 13,
+    "summary": "Bracing",
+    "temperatureF": 55
+  },
+  {
+    "date": "2021-10-20T14:12:50.3080559-10:00",
+    "temperatureC": -8,
+    "summary": "Bracing",
+    "temperatureF": 18
+  },
+  {
+    "date": "2021-10-21T14:12:50.3080601-10:00",
+    "temperatureC": 12,
+    "summary": "Hot",
+    "temperatureF": 53
+  },
+  {
+    "date": "2021-10-22T14:12:50.3080603-10:00",
+    "temperatureC": 10,
+    "summary": "Sweltering",
+    "temperatureF": 49
+  },
+  {
+    "date": "2021-10-23T14:12:50.3080604-10:00",
+    "temperatureC": 36,
+    "summary": "Warm",
+    "temperatureF": 96
+  }
+]
